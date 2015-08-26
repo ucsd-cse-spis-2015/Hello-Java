@@ -3,8 +3,8 @@ Hello World in Java
 
 Create the file Hello.java using a text editor such as:
 * gedit (available on ACMS linux machines from "Accessories" menu, last item.
-* vim (see [Resources for learning vim](.#Learning-Vim), below
-* emacs (see [Resources for learning emacs](.#Learning-Emacs), below
+* vim (see [Resources for learning vim](#Learning-Vim), below
+* emacs (see [Resources for learning emacs](#Learning-Emacs), below
 
 To compile on your ACMS account, use `javac Hello.java`, like this:
 
@@ -14,10 +14,10 @@ To compile on your ACMS account, use `javac Hello.java`, like this:
 ```
 
 
-<h2 id="Learning-Vim">Learning Vim</h2>
+# <a name="Learning-Vim"></a>Learning Vim
 
 TODO
 
-<h2 id="Learning-Emacs">Learning Vim</h2>
+# <a name="Learning-Emacs"></a>Learning Vim
 
 TODO
