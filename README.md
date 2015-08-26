@@ -18,6 +18,6 @@ To compile on your ACMS account, use `javac Hello.java`, like this:
 
 TODO
 
-# <a name="Learning-Emacs"></a>Learning Vim
+# <a name="Learning-Emacs"></a>Learning Emacs
 
 TODO
