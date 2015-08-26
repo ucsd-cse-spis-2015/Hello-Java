@@ -37,7 +37,8 @@ Here are some resources for learning some Java on your own, either before you ge
 Books: 
 
 * <em>Head First Java, 2nd Edition</em>.   By: Kathy Sierra; Bert Bates. Publisher: O'Reilly Media, Inc. Pub. Date: February 9, 2005. Print ISBN-13: 978-0-596-00920-5
- * Read it online for free (from UCSD network connections): http://proquest.safaribooksonline.com/book/programming/java/0596009208 (From off campus, see 
+ * Read it online for free (from UCSD network connections): http://proquest.safaribooksonline.com/book/programming/java/0596009208 (From off campus, see [How to VPN, below](#How-to-VPN)
+ * Buy from [Amazon](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208), price as of 08/26/2015 is $27.44
 
 # <a name="Learning-Vim"></a>Learning Vim
 
