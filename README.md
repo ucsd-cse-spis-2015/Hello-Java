@@ -43,4 +43,4 @@ If you are off campus, though, you either won't be able to see the full content,
 
 Here is how you get aroud that.
 * Navigate to: https://vpn-2.ucsd.edu/ and login with your UCSD username and password 
-* Paste the URL for the bookabove into the box that looks like this: ![/images/VPN.url.bar.png](/images/VPN.url.bar.png)
+* Paste the URL for the bookabove into the box that looks like this, and click "browse" ![/images/VPN.url.bar.png](/images/VPN.url.bar.png)
