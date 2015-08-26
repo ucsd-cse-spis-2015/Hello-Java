@@ -30,8 +30,8 @@ Books:
 
 # <a name="Learning-Emacs"></a>Learning Emacs
 
-TODO
-
+* This handout is great (here it is at various sizes): http://www.cs.ucsb.edu/~pconrad/images/emacsPoster/
+* This site has a great collection of links to more resources: http://batsov.com/articles/2011/11/30/the-ultimate-collection-of-emacs-resources/
 
 # <a name="">Reading books in the Safari O'Reilly library from off campus, with your UCSD login
 
